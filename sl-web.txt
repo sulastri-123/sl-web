@@ -1,0 +1,4 @@
+sl-web
+- konsisten untuk belajar git hub paling sedikit 1 x seminggu
+- buat tutorial jika sudah bisa di kata kan layak
+- membuat platform untuk mengelola vidio
